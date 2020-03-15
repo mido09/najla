@@ -1,0 +1,17 @@
+h1{
+text-align : center;
+color : blue
+}
+
+#aaa{
+text-align : center;
+}
+
+#elems{
+height : 70%;
+width : 30%;
+left : 35%;
+top : 25%;
+border : dashed;
+position : absolute;
+}
